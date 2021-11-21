@@ -88,11 +88,11 @@ buttons = [
     ],
 ]
 HELP_STRINGS = """
-`𝙷𝚎𝚢!.. 𝙸'𝚖` 👿 *𝙴𝚟𝚒𝚕 𝚁𝚘𝚋𝚘𝚝* [👿](https://telegra.ph/file/c61ef56856b77f6b6555d.mp4)
+`𝙷𝚎𝚢!.. 𝙸'𝚖` 👿 *alan walker *[👿](https://telegra.ph/file/c61ef56856b77f6b6555d.mp4)
 `𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝚝𝚑𝚎 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 𝚋𝚎𝚕𝚘𝚠 𝚝𝚘 𝚐𝚎𝚝 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚜𝚙𝚎𝚌𝚒𝚏𝚒𝚌 𝚖𝚘𝚍𝚞𝚕𝚎𝚜..`"""
 evil_IMG = "https://telegra.ph/file/9629491b2379ae337203b.jpg"
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @shrvan42 \
+ You can support the project via [Paypal](#) or by contacting @MrALANWALKER_bot \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 IMPORTED = {}
